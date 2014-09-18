@@ -305,3 +305,7 @@ set lazyredraw
 
 set cursorline
 set cursorcolumn
+
+
+" I like this more betterer"
+map <c-c> <esc>
