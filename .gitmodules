@@ -96,7 +96,7 @@
 	url = https://github.com/edsono/vim-matchit.git
 [submodule "bundle/vim-prefs"]
 	path = bundle/vim-prefs
-	url = https://github.com/mattjj/vim-prefs.git
+	url = git@github.com:alexbw/vim-prefs.git
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
 	url = https://github.com/tpope/vim-repeat.git
