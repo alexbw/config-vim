@@ -172,9 +172,6 @@
 [submodule "bundle/atp-vim-code"]
 	path = bundle/atp-vim-code
 	url = git://git.code.sf.net/p/atp-vim/code
-[submodule "bundle/tmuxline"]
-	path = bundle/tmuxline
-	url = https://github.com/edkolev/tmuxline.vim
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline.git
